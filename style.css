@@ -1,0 +1,25 @@
+body{
+text-align: center;
+background-color: #6B4950;
+color: #FFCFD9;
+}
+
+button{
+    background-color: #be929b;
+    padding: 5px;
+    font-size: 16px;
+    border: 3px solid #FFCFD9;
+    border-radius: 15px;
+}
+
+canvas{
+    border: 3px solid #FFCFD9;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+hr{
+    height: 3px;
+    background-color: #FFCFD9;
+    border: none;
+}
